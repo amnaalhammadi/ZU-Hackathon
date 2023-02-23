@@ -1,9 +1,9 @@
-![](Resources/ZU-QU-Hackathon.png) 
+![](Resources/ZU-QU-Hackathon1.png) 
 
-# Quantum Sekka Game
+# Quantum Sikka Game
 
 ## Guide
-Quantum Sekka is a classic board game where players buy, sell, and trade properties to become the wealthiest player. Here is a summary of a Monopoly game that runs for 200 turns with 4 players:
+Quantum Sikka game is a classic board game where players buy, sell, and trade properties to become the wealthiest player. Here is a summary of a Quantum Sikka game that runs for 200 turns with 4 players:
 
 * At the beginning of the game, each player starts with 500 AED in cash and takes turns rolling a pair of dice to move their game piece around the board.
 * The game board consists of various properties, including streets, railroads, and utilities that are well known in the UAE. 
