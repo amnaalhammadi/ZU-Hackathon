@@ -20,8 +20,8 @@ When the player lands on a property that has a value of superposition, they woul
 
 Quantum Principles: 
 * Superposition - property is in multiple states (rent value) . 
-* wave length collapse  - determine the 'actual' value of the property . 
-* measurement (cards)  - when a system interacts with the dice and causes it to reach a collapse
+* Wave length collapse  - determine the 'actual' value of the property . 
+* Measurement (cards)  - when a system interacts with the dice and causes it to reach a collapse
 
 ### How to play?
 1. Set up a team made of 4 members
