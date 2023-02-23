@@ -1,6 +1,6 @@
 ![](Resources/ZU-QU-Hackathon.png) 
 
-# ZU-Hackathon
+# Quantum Sekka Game
 
 ## Guide
 Quantum Sekka is a classic board game where players buy, sell, and trade properties to become the wealthiest player. Here is a summary of a Monopoly game that runs for 200 turns with 4 players:
