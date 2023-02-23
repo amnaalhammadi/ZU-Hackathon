@@ -2,36 +2,37 @@
 
 # Quantum Sikka Game
 
-## Guide
-Quantum Sikka game is a classic board game where players buy, sell, and trade properties to become the wealthiest player. Here is a summary of a Quantum Sikka game that runs for 200 turns with 4 players:
+## PROJECT TITLE:
+* Quantum Sekka Game
+* Tag line: Take a chance on the unpredictable world of quantum Sekka!
+* Sekka is an online quantum board game that leverages quantum mechanics principles like superposition, challenging players to navigate uncertainty to become the wealthiest player. It cultivates the player's critical thinking skills by requiring players to think outside the box and approach decision-making in a new way that mimics real-life financial markets.
 
-* At the beginning of the game, each player starts with 500 AED in cash and takes turns rolling a pair of dice to move their game piece around the board.
-* The game board consists of various properties, including streets, railroads, and utilities that are well known in the UAE. 
-* When a player lands on a property, they can choose to buy it, pay rent if it's already owned by another player, or choose to auction it off to the highest bidder.
-* Players can also land on special spaces that trigger different events, such as chance or Sekka community chest cards, income tax, or jail.
-* As players acquire more properties, they can start building houses and hotels on them to increase the rent they collect from other players who land on those spaces.
-* The game continues with players taking turns rolling the dice, moving around the board, and making strategic decisions to accumulate wealth.
-* As the game progresses, players may face financial difficulties, such as landing on high-rent properties they can't afford or drawing unfavorable chance or community chest cards.
-* The game ends after 200 turns, and the player with the most money and property value at the end of the game is declared the winner.
-* Overall, Quantum Sekka is a fun and challenging game that requires strategic thinking and a bit of luck to succeed. With 4 players and 200 turns, the game is likely to be full of twists and turns, unexpected events, and intense competition.
+## PROJECT DESCRIPTION:
+### Why did we build this project and what was our motivation?
+Our motivation to build the quantum Sekka game for CodersHQ Quantum Computing Hackathon was to showcase the potential of quantum computing in a relatable and engaging way, and to help individuals without technical backgrounds understand the principles of quantum mechanics and computing. We wanted to create an experience that would inspire innovation and interest in this emerging technology among both developers and the general public, and provide a platform for exploring the practical applications of quantum computing in areas such as finance and real estate which we leverage to promote financial literacy and strategic thinking. We believe the quantum Sekka game has the potential to be a valuable tool for education, exploration, and innovation in the field of quantum computing, and we are excited to share our vision with others.
 
-## Quantum Principles
-When the player lands on a property that has a value of superposition, they would have to draw a card that lists the different possible rent values for the property. The player would then need to roll the dice to collapse the superposition and determine the actual value of the property, which would be used to calculate the rent. The player must pay rent based on the corresponding value for as long as they remain on the property. The rent would be set at 10% of the actual value after the dice is rolled.
+### Problem statement:
+In the United Arab Emirates (UAE), there is a lack of understanding of quantum mechanics principles such as superposition among the general public. Additionally, there is a need to increase financial literacy and promote the use of effective financial strategies among residents. In quantum mechanics, superposition refers to the ability of a quantum system to exist in multiple states simultaneously. This concept of uncertainty is also prevalent in the world of finance, where investors are often faced with unpredictable market conditions and uncertain outcomes when making investment decisions. This feature is showcased in the game of Sekka where the properties in the game are in a superposition of value, affecting their worth and characteristics. Ultimately, this game can contribute to the growth of the UAE's economy and innovation within Quantum Computing.
 
-Quantum Principles: 
-* Superposition - property is in multiple states (rent value) . 
-* Wave length collapse  - determine the 'actual' value of the property . 
-* Measurement (cards)  - when a system interacts with the dice and causes it to reach a collapse
+### What will your users learn from this game about Quantum Computing? 
+At Sekka, our players will gain an in-depth understanding of the interactions between the quantum principles including superposition, collapse, wavelength, and measurement which are demonstrated in the Sekka gameplay. 
+* Superposition: the ability of a quantum particle to exist in multiple states is showcased by the altering values of the properties.
+* Wavelength: the wavelength is relevant to the uncertainty principle which states that the more precisely the particle position is known, the less precisely its momentum can be known. In terms of Sekka, the value of the property cannot be predicted until the wavelength collapses (i.e. the player lands on the property and takes action), which can affect the player's financial strategy and make the game more challenging!
+* Collapse: the process of measuring a quantum particle's state which is showcased when the property collapses into an unpredictable single value from the dice roll.
+* Measurement: the outcome of a measure of a quantum system depends on the probabilities of different states which is depicted in the Superposition of Value property cards.
 
-### How to play?
-1. Set up a team made of 4 members
-2. Choose your character
-3. Each player will have 500 AED to start
-4. The system will randomly choose the first player
-5. Roll the dice and move your game piece
-6. Read the space you landed on and buy property or pay rent
-7. Buy an unowned property when you land on it if you’d like
-8. Collect (or pay) rent when a player lands on owned property
-9. Go to jail when you’re instructed to
-10. Make deals with other players at any time.
-11. After 200 turns, the game will end and announce the winner
+### What are the features of your project?
+1) At the beginning of the game, each player starts with 500 AED in cash and takes turns rolling a pair of dice to move their game piece around the board.
+2) The game board consists of various properties, including streets, railroads, and utilities. 
+3) When a player lands on a property, they can choose to buy it, pay rent if it's already owned by another player, or choose to auction it off to the highest bidder.
+4) Players can also land on unique spaces that trigger different events, such as Superposition of Value, chance or Sekka community chest cards, income tax, or financial literacy.
+5) As players acquire more properties, they can start building houses and hotels on them to increase the rent they collect from other players who land on those spaces.
+6) The game continues with players taking turns rolling the dice, moving around the board, and making strategic decisions to accumulate wealth.
+7) As the game progresses, players may face financial difficulties, such as landing on high-rent properties they can't afford or drawing unfavorable chances or community chest cards.
+8) The most money and property value at the end of the game is declared the winner.
+
+### Features of Quantum Sekka Properties:
+1) When the player lands on a property that has a value of superposition, they would have to draw a card that lists the different possible rent values for the property.
+2) The player would then need to roll the dice to collapse the superposition and determine the property's actual value, of which the rent would be 10% of the actual value.
+3) The player must pay rent based on the corresponding value for as long as they remain on the property.
+
