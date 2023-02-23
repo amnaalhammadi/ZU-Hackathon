@@ -1,3 +1,5 @@
+![](Resources/ZU-QU-Hackathon.png) 
+
 # ZU-Hackathon
 
 ## Guide
