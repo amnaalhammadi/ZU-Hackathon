@@ -31,7 +31,7 @@ At Sikka, our players will gain an in-depth understanding of the interactions be
 7) As the game progresses, players may face financial difficulties, such as landing on high-rent properties they can't afford or drawing unfavorable chances or community chest cards.
 8) The most money and property value at the end of the game is declared the winner.
 
-### Features of Quantum Sikka Properties:
+## Features of Quantum Sikka Properties:
 1) When the player lands on a property that has a value of superposition, they would have to draw a card that lists the different possible rent values for the property.
 2) The player would then need to roll the dice to collapse the superposition and determine the property's actual value, of which the rent would be 10% of the actual value.
 3) The player must pay rent based on the corresponding value for as long as they remain on the property.
