@@ -66,5 +66,7 @@ At Sikka, our players will gain an in-depth understanding of the interactions be
   ```bash
   import numpy as np
   ```
-## How to use the project
-1) Figma 
+## How to use the project in Figma?
+* Step 1: Click on [Quantum Sikka Game](https://www.figma.com/proto/Pw7bHofXzoEEksgDaCFD7M/Quantum-Sikka-Game?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
+* Step 2: Choose one of the option
+<img src="Resources/main.png" width="30" height="30"> 
