@@ -66,3 +66,5 @@ At Sikka, our players will gain an in-depth understanding of the interactions be
   ```bash
   import numpy as np
   ```
+## How to use the project
+1) Figma 
