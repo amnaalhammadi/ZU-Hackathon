@@ -37,6 +37,22 @@ At Sikka, our players will gain an in-depth understanding of the interactions be
 3) The player must pay rent based on the corresponding value for as long as they remain on the property.
 
 ## Install and run the project
-There are two ways to run the project:
-1) You can check this link: https://www.figma.com/proto/Pw7bHofXzoEEksgDaCFD7M/Quantum-Sikka-Game?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
-2) Or you can download NetBeans and run the HTML File
+1) To run Figma File: You can check this link: [Quantum Sikka Game](https://www.figma.com/proto/Pw7bHofXzoEEksgDaCFD7M/Quantum-Sikka-Game?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
+
+2) To run HTML File: You need to download NetBeans and paste the code.
+
+3) To run the Quantum Code:
+* Step 1: Install qiskit and pylatexenc:
+```bash
+!pip install qiskit
+!pip install pylatexenc
+```
+* Step 2: Import Dependencies
+```bash
+from qiskit import *
+from qiskit.providers.aer import *
+from math import *
+from qiskit.visualization import plot_histogram
+from qiskit.providers.ibmq import IBMQ, least_busy
+from qiskit.quantum_info import Statevector
+```
