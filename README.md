@@ -68,5 +68,18 @@ At Sikka, our players will gain an in-depth understanding of the interactions be
   ```
 ## How to use the project in Figma?
 * Step 1: Click on [Quantum Sikka Game](https://www.figma.com/proto/Pw7bHofXzoEEksgDaCFD7M/Quantum-Sikka-Game?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
+
 * Step 2: Choose one of the option
-<img src="Resources/main.png" width="30" height="30"> 
+<img src="Resources/main page.png" width="800" height="500"> 
+
+* Step 3: For more information about the game choose 'Learn More'. It will display a page with the information.
+<img src="Resources/info 1.png" width="800" height="500"> <img src="Resources/info 2.png" width="800" height="500"> 
+
+* Step 4: You can start the game by clicking on 'Start' button.
+<img src="Resources/info 1.png" width="800" height="500"> <img src="Resources/game.png" width="800" height="500"> 
+
+* Step 5: To role the dice, Click on the dice image.
+<img src="Resources/info 1.png" width="800" height="500"> <img src="Resources/dice.png" width="800" height="500"> 
+
+* Step 6: If you need to read the Sikka Community card or chance card, just click on them.
+<img src="Resources/sikka community.png" width="800" height="500"> <img src="Resources/chance.png" width="800" height="500"> 
