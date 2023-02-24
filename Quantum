@@ -1,3 +1,4 @@
+```bash
 from qiskit import Aer
 from qiskit.providers.aer import QasmSimulator
 from qiskit.quantum_info import Statevector
@@ -26,3 +27,5 @@ dice2 = random_number % 6 + 2
 # print the result
 print("Dice 1:", dice1)
 print("Dice 2:", dice2)
+
+```
