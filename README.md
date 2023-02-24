@@ -56,3 +56,13 @@ from qiskit.visualization import plot_histogram
 from qiskit.providers.ibmq import IBMQ, least_busy
 from qiskit.quantum_info import Statevector
 ```
+3) To run the Python Code: 
+* Step 1: Download Pycharm
+* Step 2: Install numpy
+```bash
+pip3 install numpy
+```
+* Step 3: Improt numpy in your python code
+```bash
+import numpy as np
+```
