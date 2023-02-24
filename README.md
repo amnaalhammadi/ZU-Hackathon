@@ -42,27 +42,27 @@ At Sikka, our players will gain an in-depth understanding of the interactions be
 2) To run HTML File: You need to download NetBeans and paste the code.
 
 3) To run the Quantum Code:
-* Step 1: Install qiskit and pylatexenc:
-```bash
-!pip install qiskit
-!pip install pylatexenc
-```
-* Step 2: Import Dependencies
-```bash
-from qiskit import *
-from qiskit.providers.aer import *
-from math import *
-from qiskit.visualization import plot_histogram
-from qiskit.providers.ibmq import IBMQ, least_busy
-from qiskit.quantum_info import Statevector
-```
-3) To run the Python Code: 
-* Step 1: Download Pycharm
-* Step 2: Install numpy
-```bash
-pip3 install numpy
-```
-* Step 3: Improt numpy in your python code
-```bash
-import numpy as np
-```
+  * Step 1: Install qiskit and pylatexenc:
+  ```bash
+  !pip install qiskit
+  !pip install pylatexenc
+  ```
+  * Step 2: Import Dependencies
+  ```bash
+  from qiskit import *
+  from qiskit.providers.aer import *
+  from math import *
+  from qiskit.visualization import plot_histogram
+  from qiskit.providers.ibmq import IBMQ, least_busy
+  from qiskit.quantum_info import Statevector
+  ```
+4) To run the Python Code: 
+  * Step 1: Download Pycharm
+  * Step 2: Install numpy
+  ```bash
+  pip3 install numpy
+  ```
+  * Step 3: Improt numpy in your python code
+  ```bash
+  import numpy as np
+  ```
