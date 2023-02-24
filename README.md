@@ -36,6 +36,9 @@ At Sikka, our players will gain an in-depth understanding of the interactions be
 2) The player would then need to roll the dice to collapse the superposition and determine the property's actual value, of which the rent would be 10% of the actual value.
 3) The player must pay rent based on the corresponding value for as long as they remain on the property.
 
+## Visualization of Demo gameplay
+<img src="Resources/Quantum Sikka Game by 404 not found.png" width="800" height="550"> 
+
 ## Install and run the project
 1) To run Figma File: You can check this link: [Quantum Sikka Game](https://www.figma.com/proto/Pw7bHofXzoEEksgDaCFD7M/Quantum-Sikka-Game?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
 
